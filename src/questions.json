@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How to create a website?",
+    "views": 120,
+    "date_created": "2023-09-20"
+  },
+  {
+    "question": "What is JavaScript?",
+    "views": 85,
+    "date_created": "2023-09-18"
+  },
+  {
+    "question": "How to style a webpage with CSS?",
+    "views": 95,
+    "date_created": "2023-09-15"
+  }
+]
